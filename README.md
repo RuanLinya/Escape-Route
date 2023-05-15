@@ -20,7 +20,9 @@ In other context e.g. airplane cockpits faster detection of warnings by visual &
 
 ##  Variables
 -Independent Variable	
+
 escape route sign indication
+
 (1) visual escape route signs only 
 (2) visual escape route signs with audio signal indicating their position
 
@@ -34,9 +36,11 @@ independent samples T-test
 
 ## Implementation!
 - Software
+
 Unity 2020.3.3f1
 
 - Hardware
+
 HTC VIVE Pro with controllers
 locomotion by arm-swinging method
 standardised testing room
@@ -63,7 +67,9 @@ First get familiar then test it in a real life scenario
 
 
 [1] https://www.hilpress.com/en/Signs/Emergency-signs/Standard-Emergency-signs/HIL-SIGN-Escape-route-to-the-right-hard-PVC-400-x-200-mm.html
+
 [2] https://www.vive.com/eu/support/vive-pro-hmd/category_howto/setting-up-standing-only-play-area.html
+
 [3] Niermann, C. (2015). Multimodalität im Cockpit - Informationskanäle Überlagern und Ersetzen.
 
 
