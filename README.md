@@ -63,6 +63,9 @@ Participants enter through an exit that is not the closest exit
 Test the arm-swinging method for locomotion in VR
 First get familiar then test it in a real life scenario
 
+## Demo
+https://youtu.be/WzX1uzAYkx8
+
 ## References
 
 
