@@ -64,7 +64,7 @@ Test the arm-swinging method for locomotion in VR
 First get familiar then test it in a real life scenario
 
 ## Demo
-https://youtu.be/WzX1uzAYkx8
+https://youtu.be/XBQUJZpDeBs
 
 ## References
 
